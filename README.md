@@ -1,1 +1,2 @@
-laravel-jetstream ile basit bir quiz uygulaması
+
+### A simple quiz app with laravel-jetstream
