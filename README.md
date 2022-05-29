@@ -1,2 +1,2 @@
 
-### A simple quiz app with laravel-jetstream
+### A simple quiz app with laravel 8 
